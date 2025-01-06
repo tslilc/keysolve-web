@@ -136,6 +136,7 @@ export const LAYOUTS = {
     "trash": "vlocx'fpuytrasgkdneiqj.wzhmb,/",
     "whorf": "flhdmvwou,srntkgyaeixjbzqpc';.",
     "(0_0)": "okjyprvdgaq.mfbhzic',ulswxnte;",
+    "pinev4": "qlcmk'fuoynrstwpheaijxzgvbd/,.",
     "rsntbj": "xclkvqfou rsntgyheiazwmdbjp   ",
     "dofauq": ".auqmvgphxioetdysnlr,/;wkfcbjz",
     "curtsy": "gldvxjpou crtsybnaiewqmfz/,'. kh",
